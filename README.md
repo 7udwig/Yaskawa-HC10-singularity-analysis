@@ -18,9 +18,29 @@ A MATLAB implementation of geometric Jacobian computation and kinematic singular
 
 ### The Robot
 
-<p align="center">
-  <img src="hc10_dh_parameters.png" alt="Yaskawa HC10 DTP with color-coded joints and DH parameter table" width="700"/>
-</p>
+<div align="center">
+<table>
+<tr>
+<td valign="top">
+
+<img src="HC10_Farbe_gesch.png" height="340" alt="Yaskawa HC10 DTP with colour-coded joint rings">
+
+</td>
+<td valign="top">
+
+| i | dᵢ [mm] | ϑᵢ | aᵢ [mm] | αᵢ |
+|---|---|---|---|---|
+| 1 | 275 | ![v1](https://img.shields.io/badge/%CF%911-1f3a93) | 0 | −π/2 |
+| 2 | 0 | ![v2](https://img.shields.io/badge/%CF%912-e67e22) − 90° | 700 | π |
+| 3 | 0 | ![v3](https://img.shields.io/badge/%CF%913-27ae60) | 0 | −π/2 |
+| 4 | −500 | ![v4](https://img.shields.io/badge/%CF%914-3498db) | 0 | π/2 |
+| 5 | −162 | ![v5](https://img.shields.io/badge/%CF%915-8e44ad) | 0 | −π/2 |
+| 6 | −170 | ![v6](https://img.shields.io/badge/%CF%916-e74c3c) | 0 | π |
+
+</td>
+</tr>
+</table>
+</div>
 
 The [Yaskawa HC10 DTP](https://www.yaskawa.eu.com) is a 6-DOF collaborative robot. Each joint is marked with a colored ring — the same colors are used in the DH parameter table above.
 
