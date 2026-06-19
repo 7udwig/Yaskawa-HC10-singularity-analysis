@@ -23,7 +23,7 @@ A MATLAB implementation of geometric Jacobian computation and kinematic singular
 <tr>
 <td valign="top">
 
-<img src="docs/HC10.png" height="340" alt="Yaskawa HC10 DTP with colour-coded joint rings">
+<img src="docs/HC10.png" height="370" alt="Yaskawa HC10 DTP with colour-coded joint rings">
 
 </td>
 <td valign="top">
