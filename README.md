@@ -31,7 +31,7 @@ A MATLAB implementation of geometric Jacobian computation and kinematic singular
 The [Yaskawa HC10 DTP](https://www.yaskawa.eu.com) is a 6-DOF collaborative <br/>
 robot. Each joint is marked with a colored Ring. <br/>
 The same colors are used in the DH parameter <br/>
-table above.
+table below.
 
 | i | dᵢ [mm] | ϑᵢ | aᵢ [mm] | αᵢ |
 |---|---|---|---|---|
